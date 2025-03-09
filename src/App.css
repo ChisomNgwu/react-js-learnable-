@@ -145,54 +145,54 @@ h2 {
   
   /* Job List Container */
   .job-list {
-    max-width: 260px;
-    padding: 20px 10px;
+    max-width: 280px;
+    padding: 22px 12px;
   }
   .job-grid {
     grid-template-columns: 1fr;
-    gap: 5px;
+    gap: 6px;
   }
 
   h1 {
     color: #fff;
-    font-size: 18px !important;
+    font-size: 20px !important;
   }
 
   h2 {
-    font-size: 12px;
+    font-size: 14px;
     color: turquoise;
   }
 
   .job-card {
     border: none;
     background: #000;
-    padding: 8px;
+    padding: 10px;
   }
 
   .job-list {
-    padding: 8px;
-    font-size: 10px;
+    padding: 10px;
+    font-size: 12px;
     color: turquoise;
   }
 
   .job-button {
-    padding: 4px 6px;
+    padding: 6px 8px;
     background-color: #8176de;
     color: #fff;
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .salary-text {
-    font-size: 10px;
+    font-size: 12px;
     color: turquoise;
   }
 
   .no-jobs {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .unavailable-text {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
